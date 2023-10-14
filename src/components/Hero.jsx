@@ -1,6 +1,6 @@
-import img1 from "../assets/picture-1.jpg";
-import img2 from "../assets/picture-2.jpg";
-import img3 from "../assets/picture-3.jpg";
+import img1 from "../assets/Picture-1.jpg";
+import img2 from "../assets/Picture-2.jpg";
+import img3 from "../assets/Picture-3.jpg";
 import React, { useState } from "react";
 import jsonData from "../../data.json";
 import Profile from "./Profile";
